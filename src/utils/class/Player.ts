@@ -1,4 +1,4 @@
-import { getRandomInt } from "../utils/utils";
+import { getRandomInt } from "../utils";
 import { AttackType } from "../types/arenaType/attaqueType";
 
 export default class Player {
